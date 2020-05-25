@@ -1,0 +1,93 @@
+[
+  {
+    "covid1Month": 0.0004,
+    "covid2Month": 0.0265,
+    "covid3Month": 7.0503,
+    "covid4Month": 57.0475,
+    "stockfluct1": 0.974,
+    "stockfluct2": 9.268,
+    "stockfluct3": 4.564,
+    "stockfluct4": 1.475,
+    "gdpDifference": +0.6,
+    "stockDifference": -15.73,
+    "country": "Russia"
+  },
+  {
+    "covid1Month": 0.0043,
+    "covid2Month": 0.9865,
+    "covid3Month": 50.7514,
+    "covid4Month": 66.3280,
+    "stockfluct1": 0.882,
+    "stockfluct2": 9.787,
+    "stockfluct3": 3.485,
+    "stockfluct4": 1.437,
+    "gdpDifference": -3.6,
+    "stockDifference": -24.43,
+    "country": "United_Kingdom"
+  },
+  {
+    "covid1Month": 0.0014,
+    "covid2Month": 13.0444,
+    "covid3Month": 121.6260,
+    "covid4Month": 27.5735,
+    "stockfluct1": 1.839,
+    "stockfluct2": 12.378,
+    "stockfluct3": 3.062,
+    "stockfluct4": 1.397,
+    "gdpDifference": -6.3,
+    "stockDifference": -33.12,
+    "country": "Spain"
+  },
+  {
+    "covid1Month": 0.0016,
+    "covid2Month": 17.9640,
+    "covid3Month": 75.1771,
+    "covid4Month": 29.2154,
+    "stockfluct1": 1.866,
+    "stockfluct2": 14.047,
+    "stockfluct3": 3.206,
+    "stockfluct4": 1.740,
+    "gdpDifference": -3,
+    "stockDifference": -27.92,
+    "country": "Italy"
+  },
+  {
+    "covid1Month": 0.0015,
+    "covid2Month": 0.6684,
+    "covid3Month": 67.8480,
+    "covid4Month": 79.0637,
+    "stockfluct1": 1.165,
+    "stockfluct2": 7.709,
+    "stockfluct3": 5.782,
+    "stockfluct4": 1.312,
+    "gdpDifference": -2.4,
+    "stockDifference": -13.76,
+    "country": "United_States_of_America"
+  },
+  {
+    "covid1Month": 0.0195,
+    "covid2Month": 5.6381,
+    "covid3Month": 1.4095,
+    "covid4Month": 0.2679,
+    "stockfluct1": 1.781,
+    "stockfluct2": 5.863,
+    "stockfluct3": 5.563,
+    "stockfluct4": 0.866,
+    "gdpDifference": -0.3,
+    "stockDifference": -13.95,
+    "country": "South_Korea"
+  },
+  {
+    "covid1Month": 1.6233,
+    "covid2Month": 0.2055,
+    "covid3Month": 0.0605,
+    "covid4Month": 0.0062,
+    "stockfluct1": 2.626,
+    "stockfluct2": 6.310,
+    "stockfluct3": 1.326,
+    "stockfluct4": 0.917,
+    "gdpDifference": -13.2,
+    "stockDifference": -6.5,
+    "country": "China"
+  }
+]
